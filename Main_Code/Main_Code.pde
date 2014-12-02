@@ -2,7 +2,7 @@
 int ballWidth = 100;
 
 int xc = 300;
-int yc = 0;
+int yc = ballWidth/2;
 int xspeedc = 0;
 int yspeedc = 0;
 
